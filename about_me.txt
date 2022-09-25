@@ -1,0 +1,5 @@
+Introduce yourself in this file!
+
+Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+My name is Husain Saifuddin and I am a sophomore from West Bloomfield, MI. I plan on majoring in CS through LSA. A fun fact about me is I have visited Africa 5 times.
